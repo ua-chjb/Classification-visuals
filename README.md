@@ -48,15 +48,15 @@ Summary:
 
 5. Machine Learning
 
-   a.) train test split, custom function
+       a.) train test split, custom function
+     
+       b.) training across models, custom function
 
-   b.) training across models, custom function
+       c.) model scoring, custom function
 
-   c.) model scoring, custom function
+       e.) model selection, confusion matrices and bar chart [fig.1]
 
-   e.) model selection, confusion matrices and bar chart [fig.1]
-
-   f.) grid search, custom function
+       f.) grid search, custom function
 
 7. Appendix
    
