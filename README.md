@@ -10,9 +10,10 @@ Summary:
        ii.) distribution
        iii.) conversion rate v average
    b.) Dimension 2: Age
-       i.) groupby
-       ii.) distribution
-       iii.) examined across Referrals
+       i.) groupby \n
+   
+       ii.) distribution \n
+       iii.) examined across Referrals "\n"
        iv.) conversion rate v average
    c.) Dimension 3: Current Occupation
        i.) groupby
@@ -25,13 +26,13 @@ Summary:
        iii.) parallel categories on digital features [feature flow]
        iv.) customer profile of Digital Fluency
        iv.) conversion rate v average
-4. Machine Learning
+5. Machine Learning
    a.) train test split, custom function
    b.) training across models, custom function
    c.) model scoring, custom function
    e.) model selection, confusion matrices and bar chart [fig.1]
    f.) grid search, custom function
-5. Appendix
+6. Appendix
    a.) basic statistical testing
    
    
